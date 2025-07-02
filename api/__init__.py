@@ -2,6 +2,7 @@
 
 # Initialize FastAPI app context or utilities if needed in the future
 
-from fastapi import FastAPI
+'''from fastapi import FastAPI
 
 app = FastAPI()
+'''
